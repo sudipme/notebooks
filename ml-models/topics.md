@@ -5,8 +5,8 @@ Bayes Theorem
 Inferntial Statistics
 
 
-Regression in Machine Learning 
-Logistic Regression 
+OK Regression in Machine Learning 
+OK Logistic Regression 
 Decision Tree Algorithm
 Classification
 Types of Classification
