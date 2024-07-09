@@ -1,5 +1,5 @@
-# About this repo
+# Notebooks
 
-Just keeping notes of my learnings about machine learning.
+Keeping notes of my learnings about **Machine Learning**, **Neural Nets** and **AI**.
 
-## [!] This repo is updated frequently.
+
